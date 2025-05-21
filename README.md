@@ -5,6 +5,14 @@ Hi and Welcome to my repository! In this project, we would be looking at the UCI
 
 In the context of this assignment, the dataset was selected due to its realistic data inconsistencies, variety of attribute types, and potential for meaningful exploratory data analysis (EDA).
 
+## Objectives
+- To analyze income distribution across different demographic groups.
+- To identify key factors that influence the likelihood of earning above USD 50,000 annually.
+- To understand how variables such as education, occupation, and native region relate to income levels.
+- To uncover patterns and disparities within the dataset that could inform socio-economic insights.
+- To present meaningful conclusions that reflect the relationship between demographic traits and income potential.
+
+## Contents
 The project consists of:
 - Data Cleaning using Python
 - Exploratory Data Analysis using Apache Hive
