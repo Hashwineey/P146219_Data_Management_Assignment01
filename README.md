@@ -5,6 +5,8 @@ Hi and Welcome to my repository! In this project, we would be looking at the UCI
 
 In the context of this assignment, the dataset was selected due to its realistic data inconsistencies, variety of attribute types, and potential for meaningful exploratory data analysis (EDA).
 
+Even though the UCI Adult Income dataset wasn’t originally built for banking use, the kind of demographic information it contains is actually super relevant to the industry. Income, education level, occupation, and even country of origin are the kind of traits banks use to segment customers, assess risk, and decide who gets offered what. By analyzing these patterns, banks can figure out which groups are underserved, who might be eligible for premium products, or even where to focus financial literacy efforts. So while this project is rooted in data management, it also shows how insights like these could shape real-world decisions in a banking context.
+
 ## Objectives
 - To analyze income distribution across different demographic groups.
 - To identify key factors that influence the likelihood of earning above USD 50,000 annually.
