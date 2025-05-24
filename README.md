@@ -17,7 +17,7 @@ Even though the UCI Adult Income dataset wasn’t originally built for banking u
 ## Scope of Work
 This project includes:
 - Data cleaning and preprocessing using Python
-- Exploratory data analysis (EDA) with Hive and Zeppelin
+- Exploratory data analysis (EDA) with Hive in Jupyter Notebook
 - Visualization of income patterns across demographic attributes
 - Predictive modeling using logistic regression and decision trees
 - Interpretation of model performance and features
